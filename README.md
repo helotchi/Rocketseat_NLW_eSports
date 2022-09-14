@@ -8,7 +8,7 @@ Este repositório contém o desenvolvimento do projeto eSports da semana NLW da 
 
 ## Agenda de Desafios :white_check_mark:
 
-- [ ] <b> [11/09/2022] Stage 01 </b>
+- [x] <b> [11/09/2022] Stage 01 | Base Building </b>
 
 - [ ] <b> [12/09/2022] Stage 02 </b>
 
